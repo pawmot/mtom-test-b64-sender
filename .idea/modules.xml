@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtom-test-b64-sender.iml" filepath="$PROJECT_DIR$/.idea/modules/mtom-test-b64-sender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtom-test-b64-sender_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mtom-test-b64-sender_main.iml" group="mtom-test-b64-sender" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mtom-test-b64-sender_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mtom-test-b64-sender_test.iml" group="mtom-test-b64-sender" />
+    </modules>
+  </component>
+</project>
